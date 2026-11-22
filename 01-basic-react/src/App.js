@@ -1,3 +1,4 @@
+import Chai from './chai.js'
 function App() {
   return (
   
@@ -8,6 +9,7 @@ function App() {
       <p>npx create-react-app 01-basic-react</p>
       <p>cd 01-basic-react||
 npm start</p>
+<Chai/>
     </>
 
   );
